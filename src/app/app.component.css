@@ -1,0 +1,6 @@
+.ng-invalid.ng-touched.form-control{
+    border : 2px solid red;
+}
+.card-body{
+    background-color:rgb(248, 210, 210);
+}
